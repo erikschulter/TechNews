@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo - Rocketseat" src=".github/logo.png" width="200px" />
+  ##TechNews
 </p>
 
 <p align="center">
