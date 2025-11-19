@@ -1,8 +1,4 @@
 <p align="center">
-  ##TechNews
-</p>
-
-<p align="center">
 Projeto de um Portal de notícias desenvolvido durante as aulas de Grid na Rocketseat.
 </p>
 
