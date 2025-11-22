@@ -24,3 +24,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
+
+- ## 💻 Projeto
+
+O DevFolio é uma página de portfólio.
+
+- [Acesse o projeto finalizado, online](https://erikschulter.github.io/TechNews)
